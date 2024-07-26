@@ -1,6 +1,6 @@
 #Aplicação
 
-- Desenvolver uma aplicação utilizando Java e Spring;
+- Desenvolver uma aplicação utilizando Java 11/17 e Spring;
 - Utilizar Spring Boot;
 
 - Criar a operação baseado em uma entidade simples com relacionamento, exemplo:
