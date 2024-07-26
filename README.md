@@ -22,4 +22,4 @@ Boas práticas aplicadas;
 Aplicação de conceitos de clean code, design patterns, SOLID;
 Separação de camadas de apresentação, serviços, negócios e repositório;
 
-Disponibilizar o código desenvolvido via GitHub edinilson.silva@abablockchain.io
+Disponibilizar o código desenvolvido por e-mail edinilson.silva@abablockchain.io
